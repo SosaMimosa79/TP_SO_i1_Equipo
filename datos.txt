@@ -1,1 +1,3 @@
-
+Nombre y Apellido: Magali Cristofori[] (BETA)
+IP: 192.168.0.121
+Hora: 11:10
